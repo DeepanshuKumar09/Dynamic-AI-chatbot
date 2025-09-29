@@ -1,0 +1,7 @@
+{
+  "name": "Dynamic AI Chatbot",
+  "description": "A conversational AI system that understands natural language, responds contextually, and provides intelligent interactions using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
