@@ -1,4 +1,4 @@
-# Run and deploy your app:-https://deepanshukumar09.github.io/DynamicAIchatbot/
+# Run your app:-https://deepanshukumar09.github.io/DynamicAIchatbot/
 
 
 This contains everything you need to run your app locally.
